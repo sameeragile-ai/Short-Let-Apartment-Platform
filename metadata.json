@@ -1,0 +1,6 @@
+{
+  "name": "Ilé & Form",
+  "description": "Lagos serviced short-let residences, live furniture showroom, and landlord property investment platform.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
